@@ -29,8 +29,8 @@
     }
   ],
   "dependencies": {
-    "@stacks/auth": "^1.2.3",
-    "@stacks/connect": "^6.0.0",
+    "@stacks/auth": "2.0.1",
+    "@stacks/connect": "6.0.0",
     "esbuild": "^0.9.3",
     "jsontokens": "^3.0.0",
     "rollup-plugin-esbuild": "^3.0.2"
